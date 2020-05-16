@@ -1,0 +1,2 @@
+rootProject.name='DynamicMenuNavDrawer'
+include ':app'
